@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website!",
+      "body": "asd asd asd \nLorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum libero esse magni voluptates optio eligendi eius tempore distinctio natus sint reiciendis laboriosam obcaecati cumque iste, suscipit qui commodi molestias nesciunt.",
+      "author": "Yam",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "qwe qwe qwe \nLorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum libero esse magni voluptates optio eligendi eius tempore distinctio natus sint reiciendis laboriosam obcaecati cumque iste, suscipit qui commodi molestias nesciunt.",
+      "author": "asd",
+      "id": 2
+    },
+    {
+      "title": "latest concert",
+      "body": "zxc zxc zxc\nLorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum libero esse magni voluptates optio eligendi eius tempore distinctio natus sint reiciendis laboriosam obcaecati cumque iste, suscipit qui commodi molestias nesciunt.",
+      "author": "Yam",
+      "id": 3
+    }
+  ]
+}
